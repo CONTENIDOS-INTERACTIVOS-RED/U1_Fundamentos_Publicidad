@@ -15,24 +15,30 @@
 .brounded-sm
   border-radius: 8px !important
 
-.bg-color
+.bg
+  color: #E93B81 !important
   &-1
-    background-color: #EAF8FD
+    background-color: #FCECCC
   &-2
-    background-color: #FFFBE8
+    background-color: #F8E6F8
   &-3
-    background-color: #F0E9F6
+    background-color: #79C9E0
   &-4
-    background-color: #EAF8FD
+    background-color: #C6FDFB
   &-5
-    background-color: #FFFBE8
+    background-color: #FCECCC
   &-6
-    background-color: #E3F3F4
-    
+    background-color: #FAD7E5
   &-7
-    background-color: #FFF8D5
+    color: #7A4978
   &-8
-    background-color: #EBF6FB
+    background-color: #ffff
+  &-9
+    background-color: #D9FEFC
+  &-10
+    background-color: #EAF2FB
+  
+    
 
   &-info
     background-color: #E8EEFD
@@ -53,8 +59,8 @@
 .bg-full-width
   background-size: cover
   background-repeat: no-repeat
-  background-position: bottom
-  margin-inline: -3.3rem
+  background-position: center
+
   @media screen and (max-width: $bp-max-sm)
     padding-left: 1.5rem
     padding-right: 1.5rem
@@ -64,11 +70,110 @@
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/bg/bg2.svg") !important
     background-position: bottom
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
+  &-3
+    position: relative
+    h5, p, figure, slyder-f .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 30px
+      left: -36px
+      width: calc(100% + 72px)
+      height: 95%
+      background-image: url(../assets/bg/intro.svg) !important
+      background-repeat: no-repeat
+  &-4
+    &-3
+    position: relative
+    h5, p, figure, slyder-f .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -10px
+      left: -48px
+      width: calc(100% + 96px)
+      height: calc(100% + 15px)
+      background-color: #FCECCC
+  &-5
+    position: relative
+    h5, p, figure, slyder-f .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 30px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 95%
+      background-image: url(../assets/bg/1.svg) !important
+      background-repeat: no-repeat
+  &-6
+    &-3
+    position: relative
+    h5, p, figure, slyder-f .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -10px
+      left: -48px
+      width: calc(100% + 96px)
+      height: calc(100% + 15px)
+      background-color: #D9FEFC
+  &-7
+    position: relative
+    h5, p, figure, .slyder-f 
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 47px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 95%
+      background-image: url(../assets/bg/bg2.svg) !important
+      background-repeat: no-repeat
+  &-8
+    position: relative
+    h5, h2, p, figure, slyder-f .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 152px
+      left: -36px
+      width: calc(100% + 72px)
+      height: 100%
+      background-image: url(../assets/bg/2.svg) !important
+      background-repeat: no-repeat
+  &-9
+    position: relative
+    h5, p, figure, .slyder-f, .linea-tiempo-d
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 40%
+      left: -48px
+      width: calc(100% + 96px)
+      height: 50%
+      background-image: url(../assets/bg/bg3.svg) !important
+      background-repeat: no-repeat
+      
 
 // Variables
 $custom-card-border-radius: 0px
@@ -196,17 +301,27 @@ $custom-card-img-height: 322px
   .linea-tiempo-d__item__content__title
     padding: 28px
     border-radius: 5px 5px 0px 0px
-    background-color: lighten($color-primario, 30%)
+    background-color: lighten($color-acento-contenido, 30%)
   .linea-tiempo-d__item__content__title.active
-    background-color: $color-primario !important
+    background-color: $color-acento-contenido !important
   .linea-tiempo-d__item__content__slot
     border-radius: 0px 0px 5px 5px
-    background-color: lighten($color-primario, 37%) !important
+    background-color: lighten($color-acento-contenido, 37%) !important
   .linea-tiempo-d__item__number
-    background-color: lighten($color-primario, 30%)
+    background-color: lighten($color-acento-contenido, 30%)
   .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
-    background-color: $color-primario !important
+    background-color: $color-acento-contenido !important
   .linea-tiempo-d__item__dots:after
     border-left: 0px
   .fa-angle-up, .fa-angle-down
     display: block
+
+.slyder-a__tipo-b
+  background-color: #7A4978 !important
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active 
+  border-bottom-color: #AC59F1 !important
+
+.img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after
+  
+  background-color: #FFDF00 !important

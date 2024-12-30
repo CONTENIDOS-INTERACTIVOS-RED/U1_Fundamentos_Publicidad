@@ -4,40 +4,23 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .row.mb-5
       .col-lg-7
-        p(data-aos="fade-right") En esta unidad se profundiza sobre la importancia de la sostenibilidad en el desarrollo económico, teniendo en cuenta la necesidad de ejecutarla como una constante y un eje transversal y, pese a que aún representa uno de los mayores desafíos éticos y prácticos de nuestra era, nos centramos en reconocer cómo los principios bioéticos pueden orientar decisiones y estrategias hacia un desarrollo económico que respete, tanto el medio ambiente como los derechos humanos. El estudio de esta unidad es complemento de las demás unidades dentro del curso "Bioética, globalización y economía", dado que proporciona una comprensión ética de los efectos que las actividades económicas tienen sobre la sociedad y el planeta, integrando principios íntegros en la toma de decisiones, en entornos globalizados y sostenibles.    
-        p(data-aos="fade-right") Al finalizar esta unidad, se espera que los estudiantes aprueben el resultado de aprendizaje abordado, encontrándose en la capacidad de proponer estrategias y soluciones éticas, aplicables a la sostenibilidad y el desarrollo económico en un contexto global, integrando principios bioéticos. 
+        p(data-aos="fade-right").bg-1.p-5 La publicidad es una estrategia clave dentro del plan de mercadeo de cualquier marca o empresa y está diseñada para alcanzar un público objetivo. El mercado es cada vez más variable, debido al cambiante gusto de los usuarios, a los nuevos patrones o referencias de modas, a la rapidez con la que influye la información y a que se debe tener agilidad y creatividad, no solo para que la marca sea atractiva, sino para que el cliente se mantenga atraído con el producto o servicio.    
+        p(data-aos="fade-right") En la actualidad, la publicidad se enmarca en que debe ser ágil, cambiante, adaptable, precisa, sencilla, contundente, explicativa y diciente, además de permitir que el mercado objetivo sienta emociones al identificarse con el producto; es así, entonces, como en la era digital y el nivel tan alto de aceptación de las redes sociales y sus diferentes aplicaciones, se está permitiendo que, de forma más rápida, se personalice y con un menor presupuesto, a los medios tradicionales y se dé a conocer las empresas, los emprendimientos y, por ende, los productos y servicios.  
       .col-lg-5
         figure
           img(src="@/assets/curso/intro/1.png", data-aos="zoom-in").mt-4.mt-lg-0
 
-    .row.mb-4
+    .row.mb-4.align-items-center.bg-fondo-3
       .col-lg-5
         figure
-          img(src="@/assets/curso/intro/2.png", data-aos="zoom-in").mt-4.mt-lg-0
+          img(src="@/assets/curso/intro/2.svg", data-aos="zoom-in").mt-4.mt-lg-0
       .col-lg-7
-        p(data-aos="fade-right") Esta unidad ha sido estructurada en tres temas:
-        ol.lista-ol--cuadro(data-aos="fade-up")
-          li 
-            .lista-ol--cuadro__vineta
-              span 1
-            | Aborda la aplicación de la bioética al desarrollo económico sostenible, examinando cómo los principios bioéticos pueden orientar prácticas económicas que respeten el medio ambiente. 
-          li 
-            .lista-ol--cuadro__vineta
-              span 2
-            | Explora el rol de las políticas globales en la protección de los derechos humanos y los recursos naturales, analizando el impacto de las normativas internacionales en la sostenibilidad y el bienestar social. 
-          li 
-            .lista-ol--cuadro__vineta
-              span 3
-            | Se centra en la ética de la innovación y el desarrollo tecnológico, resaltando la importancia de un desarrollo tecnológico responsable, que favorezca la sostenibilidad.
+        h5(data-aos="fade-right") Con lo anterior se justifica, que:
+        p el aspecto clave en la publicidad, es la comunicación y los elementos que la componen, dado que es en este proceso donde se logra mantener una relación entre cliente y producto, como eje fundamental para lograr el éxito y la aceptación.
 
-    .row.mb-5
-      .col-lg-7
+        p.mb-0.bg-3.p-4 La comunicación debe reflejar el sentir de la organización, pero lo más importante el sentir del cliente o su público objetivo.
+        
 
-        .bg-color-1.p-4(data-aos="fade-left").mb-4
-          p(data-aos="fade-left").mb-0 Es el complemento de las anteriores unidades, que pretende ser aplicado en la formación profesional y en la vida diaria, en un contexto donde la crisis climática y los problemas de justicia social, se intensifican.  
-
-        p(data-aos="fade-left") Durante el desarrollo de la unidad, se espera que los estudiantes se integren a cada una de las actividades propuestas, buscando fortalecer cada una de las temáticas estudiadas. Esto no solo demostrará su compromiso, sino que, a su vez, retroalimentará su análisis crítico y la aplicación de los conceptos aprendidos. Es a través del involucramiento constante y la actitud ética, donde se logrará alcanzar una comprensión profunda de los desafíos de sostenibilidad y bioética, en un contexto económico global.
-      .col-lg-5
-        figure
-          img(src="@/assets/curso/intro/3.png", data-aos="zoom-in")
+    
+      
 </template>

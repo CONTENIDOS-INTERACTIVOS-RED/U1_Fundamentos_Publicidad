@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '1',
+    tituloUnidad: 'Introducción a la publicidad',
   },
   menuPrincipal: {
     menu: [
@@ -15,26 +15,20 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Bioética aplicada al desarrollo económico sostenible',
+        titulo: 'Introducción a la publicidad ',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Definición del desarrollo económico sostenible',
+            titulo: 'Conceptos básicos de publicidad',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Principios bioéticos en el uso de los recursos naturales',
+            titulo: 'Objetivos principales de la publicidad',
             hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Casos de éxito en desarrollo económico sostenible',
-            hash: 't_1_3',
           },
         ],
       },
@@ -42,30 +36,21 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo:
-          'El rol de las políticas globales en la protección de los derechos humanos y los recursos naturales',
+        titulo: 'Historia y evolución de la publicidad',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo:
-              'Marco ético y legal de las políticas globales de sostenibilidad',
+            titulo: 'Orígenes, de acuerdo con las etapas históricas',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
             titulo:
-              'Legislación internacional y local, sobre derechos humanos y recursos naturales',
+              'Publicidad en los siglos XX y XXI: la era digital y los nuevos medios',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo:
-              'Responsabilidad social de las empresas en la protección de recursos naturales',
-            hash: 't_2_3',
           },
         ],
       },
@@ -73,25 +58,26 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Ética en la innovación y desarrollo tecnológico',
+        titulo: 'Rol de la publicidad en la comunicación del ',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Innovación sostenible',
+            titulo: 'Elementos de la comunicación en el <em>marketing</em>',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Tecnologías sostenibles y nuevas tendencias',
+            titulo: 'Medios de comunicación',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Privacidad y seguridad de datos',
+            titulo:
+              'Interconexión entre publicidad y otros aspectos del <em>marketing</em>',
             hash: 't_3_3',
           },
         ],
