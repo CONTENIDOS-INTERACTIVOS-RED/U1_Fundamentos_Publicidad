@@ -89,22 +89,11 @@ export default {
       },
     ],
     subMenu: [
-      // {
-      //   nombreRuta: 'actividad',
-      //   icono: 'far fa-question-circle',
-      //   titulo: 'Actividad didáctica',
-      //   desarrolloContenidos: true,
-      // },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      // {
-      //   nombreRuta: 'complementario',
-      //   icono: 'far fa-folder-open',
-      //   titulo: 'Material complementario',
-      // },
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
