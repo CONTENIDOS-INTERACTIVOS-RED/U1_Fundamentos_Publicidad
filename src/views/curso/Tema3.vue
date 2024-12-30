@@ -7,9 +7,10 @@
 
     .bg-9.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto
+        .col-md-8.col-lg-auto
           figure
-            img(src='@/assets/curso/tema3/1.png', alt='')
+            img.d-none.d-lg-flex(src='@/assets/curso/tema3/1.png', alt='')
+            img.d-flex.d-lg-none(src='@/assets/curso/tema3/1-1.png', alt='')
         .col-lg
           .p-4
             p.mb-0(data-aos="fade-up")  Con el fin de comercializar o vender un producto o servicio, las empresas y los emprendedores deben fortalecer la comunicación con los clientes; es así como independiente de la actividad económica, se requiere de una interacción permanente; es así como en publicidad se requiere que esta comunicación sea de doble vía y permita conocer las necesidades y gustos, para establecer las estrategias del <em>marketing</em>. 
@@ -20,14 +21,14 @@
     p.mb-5 Ahora, conozcamos cuales son los elementos de la comunicación en el <em>marketing</em>.
 
   
-    .row.justify-content-center.align-items-center.mb-5.bg-10.tarjeta.p-5
+    .row.justify-content-center.align-items-center.mb-5.bg-10.tarjeta.p-md-5
       .col-lg-10
         ImagenInfografica.color-secundario(data-aos="zoom-in-up")
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/tema3/17.svg', alt='', style="max-width: 1106px;").mx-auto
 
-            .bg-8.tarjeta.box-shadow.p-3(x="71.2%" y="26.2%" numero="+")
+            .bg-8.tarjeta.box-shadow.p-3.pst-1(x="71.2%" y="26.2%" numero="+")
               h5 Anunciante
               p Persona(s) o empresa que crea(n) un mensaje para promocionar la marca, producto o servicio a través de estrategias publicitarias.
 
@@ -54,17 +55,17 @@
     .row.mb-5.align-items-center
       .col-lg-7
         .row.align-items-center.bg-2.p-4
-          .col-lg-auto
+          .col-md-auto.mb-3
             img(src="@/assets/curso/tema3/2.svg", style="max-width: 90px").mx-auto
-          .col-lg
+          .col-md
             p.mb-0 Si bien actualmente se está viviendo una era digital, desde la perspectiva de publicidad y comunicación, de la mano del mercadeo, es necesario conocer y abordar los medios de comunicación tradicionales, como la base para llegar al público objetivo; dentro de estos, se destacan: 
       .col-lg-5(data-aos="zoom-in-up")
         figure
           img(src='@/assets/curso/tema3/3.png', alt='')
     
     .bg-fondo-9
-      .row.mb-5
-        .col-lg-5
+      .row.mb-5.justify-content-center
+        .col-md-8.col-lg-5.mb-3
           figure
             img(src="@/assets/curso/tema2/4.png", data-aos="zoom-in").mt-4.mt-lg-0
         .col-lg-7
@@ -75,11 +76,11 @@
             p(numero="4" titulo="Publicidad exterior") La característica principal de este medio es la de estar ubicado donde existe afluencia del público objetivo, donde lo gráfico y creativo, resulta lo más valioso para obtener los resultados esperados.
     
     
-      .row.mb-5.align-items-center
-        .col-lg-8
+      .row.mb-5.align-items-center.justify-content-center
+        .col-lg-8.mb-3
           p Micó Sanz, J. L. & Coll Rubio, P. (2018), destacan la transición de medios tradicionales, como prensa, radio y televisión, hacia plataformas digitales, las cuales permiten una interacción más directa y personalizada con el consumidor. Enfatizan en la importancia de las redes sociales, blogs y sitios web corporativos, como canales claves para la comunicación del <em>marketing</em> en la era digital. 
           p.bg-2.p-4.mb-0 Es importante resaltar que la integración de estrategias multicanal, combinadas con medios tradicionales y digitales, logran maximizar el alcance y la efectividad de las campañas publicitarias.
-        .col-lg-4(data-aos="zoom-in-up")
+        .col-md-8.col-lg-4(data-aos="zoom-in-up")
           figure
             img(src='@/assets/curso/tema3/5.svg', alt='')
     
@@ -89,19 +90,19 @@
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3
                 img(src="@/assets/curso/tema3/6.png")
             .col-lg-7
               h4 Medios propios (Owned Media)
               p Son aquellos canales de comunicación que la empresa controla directamente, como su sitio web, blogs corporativos y perfiles en redes sociales. Estos medios permiten a la organización, difundir contenido alineado con su estrategia y establecer una comunicación directa con su audiencia.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3
                 img(src="@/assets/curso/tema3/7.png")
             .col-lg-7
               h4 Medios pagados (Paid Media)
               p Incluye todas las formas de publicidad pagada, como anuncios en redes sociales, banners en sitios web y campañas de pago por clic. Estos medios buscan amplificar el alcance del mensaje y atraer a nuevas audiencias, mediante inversiones económicas.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3
                 img(src="@/assets/curso/tema3/8.png")
             .col-lg-7
               h4 Medios ganados (Earned Media)
@@ -109,10 +110,10 @@
     
     .bg-fondo-4
       .row.mb-5.align-items-center
-        .col-lg-auto
-          figure
-            img(src="@/assets/curso/tema3/9.svg", alt="").mt-4.mt-lg-0
-        .col-lg
+        .col-md-auto
+          figure.justify-content-center.d-flex
+            img.pst(src="@/assets/curso/tema3/9.svg", alt="").mt-4.mt-lg-0
+        .col-md
           p.mb-0 Esta clasificación es fundamental para desarrollar una estrategia de comunicación integral en redes sociales, permitiendo a las organizaciones equilibrar y optimizar sus esfuerzos en cada tipo de medio, para alcanzar sus objetivos del <em>marketing</em>.
 
     #t_3_3.titulo-segundo(data-aos="flip-up")
@@ -122,11 +123,11 @@
 
     .bg-fondo-7
       .row.justify-content-center
-        .col-11.col-md-4.col-xl-5.pe-xl-8
+        .col-md-8.col-xl-5.pe-xl-8.mb-3
           figure.mb-4.mb-md-0
             img(src='@/assets/curso/tema3/10.png', alt='Texto que describa la imagen')
-        .col-11.col-md-8.col-xl-7
-          SlyderF(columnas="col-12 col-lg-6")
+        .col-xl-7
+          SlyderF(columnas="col-12 col-md-6")
             .row.py-4.px-3.h-100
               .col-10.offset-1.offset-md-0.col-md-12.shadow-app.p-3.py-md-5.px-md-4.bg-8.tarjeta
                 img(src='@/assets/curso/tema3/11.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
@@ -155,8 +156,8 @@
     
     p.text-bold.mb-5 Algunos ejemplos prácticos de publicidad, son:
 
-    .row.mb-5
-      .col-lg-7
+    .row.mb-5.justify-content-center
+      .col-lg-7.mb-3
         LineaTiempoD.color-primario.large(data-aos="fade-left")
           div(numero="1" titulo='Coca-Cola. Campaña "Comparte una Coca-Cola"') 
             ul.lista-ul
@@ -219,10 +220,7 @@
               li.d-flex 
                 i.bg-7.fas.fa-check-circle
                 p #[strong Resultado.]  Se crea una conexión emocional con el público, estableciendo un modelo de <em>marketing</em> aspiracional.
-              
-         
-          
-      .col-lg-5
+      .col-md-8.col-lg-5
         figure
           img(src="@/assets/curso/tema3/16.png", data-aos="zoom-in").mt-4.mt-lg-0
 

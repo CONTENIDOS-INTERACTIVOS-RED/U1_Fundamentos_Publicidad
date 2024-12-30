@@ -47,6 +47,12 @@
   &-white
     background-color: #fff
 
+.pst
+  @media (max-width: $bp-max-sm)
+    width: 50%
+    
+
+
 .border-top
   &.color-primario
     border-top: 5px solid $color-primario !important
@@ -89,6 +95,11 @@
       height: 95%
       background-image: url(../assets/bg/intro.svg) !important
       background-repeat: no-repeat
+      @media (max-width: $bp-max-sm)
+        background-image: none !important
+        background-color: #D9FEFC
+        top: -10px
+        height: calc(100% + 10px)
   &-4
     &-3
     position: relative
@@ -159,6 +170,11 @@
       height: 100%
       background-image: url(../assets/bg/2.svg) !important
       background-repeat: no-repeat
+      @media (max-width: $bp-max-sm)
+        background-image: none !important
+        background-color: #F8E6F8
+        top: -10px
+        height: calc(100% + 10px)
   &-9
     position: relative
     h5, p, figure, .slyder-f, .linea-tiempo-d
@@ -273,7 +289,7 @@ $custom-card-img-height: 322px
 .img-infografica__item, .img-infografica-b__item
   width: 48px !important
   @media screen and (max-width: $bp-max-sm)
-    width: 38px !important
+    width: 22px !important
   
 
 .img-infografica__item__dot:before, .img-infografica-b__item__dot:before
@@ -323,5 +339,7 @@ $custom-card-img-height: 322px
   border-bottom-color: #AC59F1 !important
 
 .img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after
-  
   background-color: #FFDF00 !important
+  
+
+
