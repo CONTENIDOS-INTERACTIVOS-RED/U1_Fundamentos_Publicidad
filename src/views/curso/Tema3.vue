@@ -224,6 +224,35 @@
         figure
           img(src="@/assets/curso/tema3/16.png", data-aos="zoom-in").mt-4.mt-lg-0
 
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2 MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+            //- Referencia con enlace 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/218583" target="_blank" rel="noopener noreferrer") Roig, F. A. (2022). La publicidad moderna: De Bretton Woods a la era digital, 1945-1995. Ediciones Infinito. 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/269656" target="_blank" rel="noopener noreferrer") Kotler, P. Kartajaya, H. & Setiawan, I. (2024). Marketing 6.0: el futuro es inmersivo. LID Editorial España.  
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/115583" target="_blank" rel="noopener noreferrer") Medina, A. (2016). El futuro de la comunicación: píldoras de publicidad, marketing y medios digitales. Difusora Larousse - Ediciones Pirámide.     
+            //- Referencia de youtube 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=PM0EFQ3ECDg" target="_blank" rel="noopener noreferrer") Departamento de Marketing. (2023). Como evaluar una campaña de publicidad ▪ Criterio rápido y sencillo.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=UYkqRbwCZAc" target="_blank" rel="noopener noreferrer") Tecnogama. (2019). Historia de 2 parejas 🎼 Cortometraje animado sobre una pareja dispareja.
+           
+
+
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
     
 </template>
 

@@ -169,6 +169,35 @@
                 img(src='@/assets/curso/tema1/17.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Impulsar la innovación y la adaptabilidad
                 p.text-center En un entorno digital en constante cambio, la publicidad debe ser ágil y creativa, adaptándose rápidamente a nuevas tendencias y tecnologías, para mantener la relevancia.
+    
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2 MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+            //- Referencia con enlace 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/58473?page=1" target="_blank" rel="noopener noreferrer") Moore, S. (2015). Relaciones públicas y la historia de las ideas. Editorial UOC.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/36392" target="_blank" rel="noopener noreferrer") Erickson, B. F. (2010). La publicidad. Firmas Press.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.alohacreativos.com/blog/que-es-publicidad" target="_blank" rel="noopener noreferrer") ¿Qué es la publicidad?  
+            //- Referencia de youtube 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=CZB5yRWb8Mg" target="_blank" rel="noopener noreferrer") TEDx Talks. (2024). Cómo las marcas conectan con las personas | Daniela Goicoechea | TEDxUPFMataró.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=XXZw3CA8MSg" target="_blank" rel="noopener noreferrer") Negocios En Tu Mundo. (2021). ¿Cuál es la importancia de la psicología para las marcas? [Negocios en Tm] ®. 
+
+
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
 
    
 

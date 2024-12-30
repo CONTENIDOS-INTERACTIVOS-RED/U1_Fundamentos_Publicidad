@@ -120,131 +120,131 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2), https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Roig, F. A. (2022). La publicidad moderna: De Bretton Woods a la era digital, 1945-1995. Ediciones Infinito.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/218583 ',
+    },
+    {
+      referencia:
+        'Kotler, P. (2024). Marketing empresarial: más allá del profesionalismo, hacia la creatividad, el liderazgo y la sostenibilidad. Ediciones Granica.',
       link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'https://elibro.net/es/ereader/tecnologicadeloriente/267031?page=315',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Kotler, P. & Stigliano, G. (2020). Retail 4.0: 10 reglas para la era digital. LID Editorial España.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/269739 ',
     },
     {
       referencia:
-        'Beyer, M. (2022, agosto 10). Las mayores centrales solares del mundo.10: Noor Abu Dhabi (Emiratos Árabes Unidos). pv magazine Latin America.',
-      link:
-        'https://www.pv-magazine-latam.com/2022/08/10/las-mayores-centrales-solares-del-mundo-10-noor-abu-dhabi-emiratos-arabes-unidos/',
+        'Feenstra, R. A. (2014). Ética de la publicidad: retos en la era digital. Dykinson.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/58047 ',
     },
     {
       referencia:
-        'Binns, R. (2018). Ethics in artificial intelligence: A comprehensive guide to understanding the ethical implications of AI. Springer.',
-      link: '',
+        'Perceval, J. M. (2015). Historia mundial de la comunicación. Difusora Larousse - Ediciones Cátedra.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/115201',
     },
     {
       referencia:
-        'Carroll, A. B. (2013). La dimensión económica del desarrollo sostenible. San Vicente (Alicante), España: ECU.',
-      link:
-        'https://elibro.net/es/ereader/tecnologicadeloriente/62332?page=172',
+        'Sabater Quinto, F. & Monserrat Gauchi, J. (2017). Planificación estratégica de la comunicación en redes sociales. Editorial UOC.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/58649 ',
     },
     {
       referencia:
-        'De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Rio de Janeiro (República Federativa del Brasil., aprobada en Estocolmo.',
-      link: '',
-    },
-    {
-      referencia:
-        'El promedio mundial, G. a. su P. G. el P. C. C. I. S. Q. S., & De, C. C. un G. P. en E. F. E. I. E. Q. el P. en el P. es. (s/f). Energía solar en Colombia. Gov.co. Recuperado el 9 de noviembre de 2024, de',
-      link:
-        'https://repositorio.etechsolutions.com/bitstream/handle/123456789/56/22%20-%20Energ%C3%ADa%20solar%20colombia.pdf?sequence=1&isAllowed=y',
-    },
-    {
-      referencia:
-        'García Peregrin, E. (2018). Bioética: temas para el debate. Vol. 2: (ed.). Bubok Publishing S.L.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/51423',
-    },
-    {
-      referencia:
-        'Garza Grimaldo, J. G. & Valqui Cachi, C. (2017). Los valores en la dialéctica de la humanidad y la naturaleza en el siglo XXI: ( ed.). Ediciones y Gráficos Eón.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/41138',
-    },
-    {
-      referencia:
-        'Naciones Unidas. (2015). Agenda 2030 para el Desarrollo Sostenible.',
-      link: 'https://www.un.org/sustainabledevelopment/es/agenda2030/',
-    },
-    {
-      referencia:
-        'Naciones Unidas. (2022). Derecho a un medio ambiente limpio, saludable y sostenible.',
-      link: 'https://www.un.org/es/climatechange',
-    },
-    {
-      referencia:
-        'Núñez de Castro, I. (2017). La bioética: un camino para el presente: ( ed.). ITESO - Instituto Tecnológico y de Estudios Superiores de Occidente.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/40950',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo [OIT]. (1989). Convenio sobre los pueblos indígenas y tribales, 1989 (No. 169).',
-      link:
-        'https://www.ilo.org/dyn/normlex/en/f?p=1000:12100:0::NO:12100:P12100_INSTRUMENT_ID:312314',
-    },
-    {
-      referencia:
-        'Pinilla Forero, J. (2022). Ética y bioética en la práctica profesional. Revista Colombiana de Ciencias Administrativas, 4 (1), 78-93: ( ed.). Fundación Universitaria San Mateo.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/219184',
-    },
-    {
-      referencia:
-        'Política de Turismo Sostenible: "Unidos por la Naturaleza". (s/f). Gov.co. Recuperado el 9 de noviembre de 2024, de',
-      link:
-        'https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/politicas-del-sector-turismo/politica-de-turismo-sostenible',
+        'Micó Sanz, J. L. & Coll Rubio, P. (2018). Marketing y comunicación en la nueva economía. Editorial UOC.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/218583 ',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Campaña publicitaria',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Conjunto de estrategias y acciones, organizadas para promocionar un producto, servicio o idea, en un periodo de tiempo específico.',
     },
     {
-      termino: 'Cambio Climático',
+      termino: 'Ciclo de vida de un producto',
       significado:
-        'alteraciones a largo plazo en las condiciones climáticas globales, en gran parte debido a la actividad humana (como la quema de combustibles fósiles), que afectan a los ecosistemas, la biodiversidad y las sociedades humanas, especialmente en términos de seguridad alimentaria y recursos hídricos.',
+        'Etapas por las que pasa un producto, desde su introducción al mercado, hasta su declive.',
     },
     {
-      termino: 'Derechos Humanos',
+      termino: 'Cliente',
       significado:
-        'conjunto de derechos inherentes a todos los seres humanos, sin distinción alguna, que protegen la dignidad, la libertad, la igualdad, la seguridad y el bienestar de las personas, independientemente de su nacionalidad, género, etnia, religión, etc.',
+        'Individuo o entidad que adquiere un producto o servicio a cambio de un pago.',
     },
     {
-      termino: 'Ética en la Innovación',
+      termino: 'Comunicación ',
       significado:
-        'disciplina que analiza las implicaciones éticas de los avances y las nuevas tecnologías, evaluando su impacto en la humanidad, el medio ambiente, y la equidad social, asegurando que las innovaciones se alineen con principios morales y de justicia.',
+        'Proceso de intercambio de mensajes con el fin de informar, persuadir o generar entendimiento.',
     },
     {
-      termino: 'Innovación Sostenible',
+      termino: 'Consumidor',
       significado:
-        'desarrollo y aplicación de nuevas ideas, productos, procesos o servicios que no solo son económicamente viables, sino que también promueven la sostenibilidad ambiental, social y económica a largo plazo.',
+        'Persona que utiliza o consume un producto o servicio, para satisfacer una necesidad.',
     },
     {
-      termino: 'Políticas Globales',
+      termino: '<em>Engagement</em>',
       significado:
-        'estrategias y medidas adoptadas a nivel internacional por gobiernos, organizaciones intergubernamentales y actores globales para abordar problemas mundiales como el cambio climático, la pobreza, la salud pública y la protección de los derechos humanos.',
+        'Nivel de interacción y compromiso emocional entre una marca y su audiencia.',
     },
     {
-      termino: 'Responsabilidad Social Corporativa (RSC)',
+      termino: 'Interacción',
       significado:
-        'compromiso voluntario de las empresas para contribuir al bienestar social y ambiental, más allá de su obligación legal, integrando principios éticos en sus prácticas de negocio.',
+        'Proceso de intercambio entre dos o más personas, marcas o entidades, que genera comunicación activa y retroalimentación.',
     },
     {
-      termino: 'Sostenibilidad Ambiental',
+      termino: 'Interacciones',
       significado:
-        'principio que aboga por la conservación y el uso responsable de los recursos naturales para preservar la biodiversidad y los ecosistemas a largo plazo, asegurando un entorno saludable para las generaciones futuras.',
+        'Acciones mutuas entre usuarios y marcas, como comentarios, compartidos, clics o respuestas a mensajes en plataformas.',
     },
     {
-      termino: 'Tecnologías Emergentes',
+      termino: 'Marca',
       significado:
-        'tecnologías de última generación con el potencial de transformar industrias y sociedades, como la inteligencia artificial, la biotecnología, la nanotecnología y las energías renovables, que plantean nuevos retos éticos y sociales',
+        'Identidad única de un producto, servicio o empresa que lo diferencia en el mercado.',
+    },
+    {
+      termino: '<em>Marketing</em>',
+      significado:
+        'Es el conjunto de estrategias y acciones destinadas a identificar, crear, comunicar y entregar valor a un público objetivo, con el fin de satisfacer sus necesidades y deseos, mientras se generan beneficios para la organización. Involucra elementos como investigación de mercado, <em>branding</em>, publicidad, distribución y experiencia del cliente.',
+    },
+    {
+      termino: 'Medios de comunicación',
+      significado:
+        'Medios a través de los cuales se transmiten mensajes al público, como televisión, radio, prensa, redes sociales y plataformas digitales.',
+    },
+    {
+      termino: 'Producto',
+      significado:
+        'Bien tangible diseñado para satisfacer necesidades o deseos de los consumidores.',
+    },
+    {
+      termino: 'Receptor',
+      significado:
+        'Individuo o grupo que recibe y decodifica un mensaje en el proceso de comunicación.',
+    },
+    {
+      termino: 'Red social',
+      significado:
+        'Plataforma digital donde las personas interactúan, comparten contenido y crean comunidades en línea.',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'Proceso de dividir un mercado en grupos con características y necesidades similares, para dirigirse de manera más efectiva.',
+    },
+    {
+      termino: 'Servicio',
+      significado:
+        'Actividad o beneficio intangible que satisface una necesidad específica del consumidor.',
+    },
+    {
+      termino: 'Usuarios',
+      significado:
+        'Personas que interactúan con productos, servicios o plataformas, consumiendo o respondiendo a los mensajes comunicados.',
+    },
+    {
+      termino: 'Ventas',
+      significado:
+        'Es el proceso directo mediante el cual una empresa o individuo intercambia un producto o servicio por dinero u otro valor, buscando concretar transacciones que cumplan con las necesidades del cliente y contribuyan a los objetivos comerciales de la organización. Las ventas son la etapa operativa y final del marketing.',
     },
   ],
 }

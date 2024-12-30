@@ -228,6 +228,34 @@
         figure
           img(src="@/assets/curso/tema2/26.png", data-aos="zoom-in").mt-4.mt-lg-0
 
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2 MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+            //- Referencia con enlace 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/196993" target="_blank" rel="noopener noreferrer") Uribe Beltrán, C. I. (2020). Marketing digital en agencias de publicidad: social media en Mipymes de servicios creativos de Bogotá. Fundación Universitaria Los Libertadores. 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/270009" target="_blank" rel="noopener noreferrer") Albuquerque, M. (2023). Marketing de influencia: cómo aplicar la ciencia al arte de la influencia. LID Editorial España.   
+            //- Referencia de youtube 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=fr-DjodB6iw" target="_blank" rel="noopener noreferrer") Los de Anteojos. (2020). Evolución de la publicidad.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=q9P2xxLzAcY" target="_blank" rel="noopener noreferrer") Brand Inteligente. (2019). Evaluación de marca: Importancia | Brand Inteligente.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://youtube.com/shorts/iElWMb54y5E?si=6tItgv0pPvwAcbEB" target="_blank" rel="noopener noreferrer") Ejemplo de Animación de publicidad. Motion Graphics para Magnum Pup. 
+
+
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
    
 
 </template>

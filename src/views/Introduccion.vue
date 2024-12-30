@@ -14,11 +14,11 @@
       .col-md-8.col-lg-5.order-2.order-lg-1
         figure
           img(src="@/assets/curso/intro/2.svg", data-aos="zoom-in").mt-4.mt-lg-0
-      .col-lg-7.order-1.order-lg-2.mb-3
+      .col-lg-7.order-1.order-lg-2.mb-3.mt-5
         h5(data-aos="fade-right") Con lo anterior se justifica, que:
         p el aspecto clave en la publicidad, es la comunicación y los elementos que la componen, dado que es en este proceso donde se logra mantener una relación entre cliente y producto, como eje fundamental para lograr el éxito y la aceptación.
 
-        p.mb-0.bg-3.p-4 La comunicación debe reflejar el sentir de la organización, pero lo más importante el sentir del cliente o su público objetivo.
+        p.mb-0.bg-3.p-4.text-bold La comunicación debe reflejar el sentir de la organización, pero lo más importante el sentir del cliente o su público objetivo.
         
 
     
